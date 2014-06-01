@@ -1,0 +1,142 @@
+<?xml version="1.0"?>
+<body>
+	<function
+		name = "go"
+		num_param = "1"
+		ret_type = "void"
+		event = "1"
+	/>
+	<function
+		name = "input_by_id"
+		num_param = "2"
+		ret_type = "void"
+		event = "0"
+	/>
+	<function
+		name = "input_elem"
+		num_param = "2"
+		ret_type = "void"
+		event = "0"
+	/>
+	<function
+		name = "click_by_text"
+		num_param = "1"
+		ret_type = "void"
+		event = "1"
+	/>
+	<function
+		name = "click_by_id"   
+		num_param = "1"
+		ret_type = "void"
+		event = "1"
+	/>
+	<function
+		name = "click_elem"
+		num_param = "1"
+		ret_type = "void"
+		event = "1"
+	/>
+	<function
+		name = "check_by_text"
+		num_param = "1"
+		ret_type = "bool"
+		event = "0"
+	/>
+	<function
+		name = "check_by_id" 
+		num_param = "1"
+		ret_type = "bool"
+		event = "0"
+	/>
+	<function
+		name = "set_options" 
+		num_param = "1"
+		ret_type = "void"
+		event = "0"
+	/>
+	<function
+		name = "set_options_elem" 
+		num_param = "2"
+		ret_type = "void"
+		event = "0"
+	/>
+	<function
+		name = "set_check_box_flag"  
+		num_param = "2"
+		ret_type = "void"
+		event = "0"
+	/>
+	<function
+		name = "click_check_box_flag"  
+		num_param = "1"
+		ret_type = "void"
+		event = "0"
+	/>
+	<function
+		name = "set_check_box_elem"  
+		num_param = "2"
+		ret_type = "void"
+		event = "0"
+	/>
+	<function
+		name = "wait" 
+		num_param = "1"
+		ret_type = "void"
+		event = "0"
+	/>
+	<function
+		name = "go_back" 
+		num_param = "0"
+		ret_type = "void"
+		event = "1"
+	/>	
+	
+	<function
+		name = "get_tree" 
+		num_param = "1"
+		ret_type = "htmlelementcollect"
+		event = "0"
+	/>
+	<function
+		name = "save"
+		num_param = "2"
+		ret_type = "void"
+		event = "0"
+	/>
+	<function
+		name = "saveHTML"
+		num_param = "2"
+		ret_type = "void"
+		event = "0"
+	/>
+	<function
+		name = "get_elements_by_tag" 
+		num_param = "1"
+		ret_type = "htmlelementcollect"
+		event = "0"
+	/>
+	<function
+		name = "get_elements_by_attr_value" 
+		num_param = "2"
+		ret_type = "htmlelementcollect"
+		event = "0"
+	/>
+	<function
+		name = "save_images" 
+		num_param = "2"
+		ret_type = "void"
+		event = "0"
+	/>
+	<function
+		name = "get_element_with_num" 
+		num_param = "2"
+		ret_type = "htmlelement"
+		event = "0"
+	/>
+	<function
+		name = "get_length" 
+		num_param = "1"
+		ret_type = "int"
+		event = "0"
+	/>
+</body>
